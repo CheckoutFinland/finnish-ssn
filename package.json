@@ -8,6 +8,7 @@
     "Mika Viljanen https://github.com/mjviljan"
   ],
   "main": "dist/finnish-ssn.js",
+  "typings": "dist/types.d.ts",
   "keywords": [
     "Finnish",
     "SSN",
